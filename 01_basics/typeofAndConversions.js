@@ -11,3 +11,16 @@ console.log(booleanisLoggedin)
 let notLoggedin = 0
 let booleannotLoggedin = Boolean(notLoggedin)
 console.log(booleannotLoggedin)
+
+//************************Opertations************************//
+
+let value = 29;
+let negValue = -value
+console.log(negValue)
+
+console.log(1+2)
+console.log("1"+2)
+console.log(1+"2")
+console.log("1"+"2")
+console.log("1"+2+2)
+console.log(1+2+"2")
