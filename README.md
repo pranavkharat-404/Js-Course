@@ -1,2 +1,2 @@
 # Js-Course
-Complete Js
+Complete Js Basics
